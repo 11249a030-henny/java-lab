@@ -14,7 +14,7 @@ class Employee {
     }
 
     public static void main(String[] args) {
-        Employee e1 = new Employee(87, "gowri");
+        Employee e1 = new Employee(19, "henny");
         e1.display();
     }
 }
